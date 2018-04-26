@@ -1,10 +1,15 @@
-# ${1:Project Name}
+# React JS Weather Widget
 
-React JS Weather Widget
+A simple React app that uses openweathermap's API to get the weather of any location. :sunny: :umbrella: :cloud:
 
 ## Installation
 
-A simple React app that uses openweathermap's API to get the weather of any location. :sunny: :umbrella: :cloud:
+```console
+  cd weather-app
+  yarn install
+  yarn run
+  
+```
 
 ## Usage
 
