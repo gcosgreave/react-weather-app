@@ -4,6 +4,9 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.2",
+    "hyper-color-command": "^1.0.0",
+    "hyper-tab-icons": "^2.1.0",
+    "hyperborder": "^1.1.1",
     "npm": "^5.10.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
